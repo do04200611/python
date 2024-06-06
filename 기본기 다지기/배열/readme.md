@@ -9,19 +9,11 @@
 
 
 ## Introduction to repositories 
-반복문 문제를 풀어놓은 코드입니다. <br>
-<a href="https://www.acmicpc.net/problem/10950">
-  <img src ="https://github.com/do04200611/python/assets/74278578/965e8b19-20e0-44e2-8810-a6bd40156ac6">
-</a><br>
-<a href="https://www.acmicpc.net/problem/10950">
-  <img src ="https://github.com/do04200611/python/assets/74278578/75c6d78b-5f79-4bc8-9ed2-8937a492593d">
-</a><br>
-<a href="https://www.acmicpc.net/problem/8393">
-  <img src ="https://github.com/do04200611/python/assets/74278578/fc0d4107-a75d-475f-8252-4124901b7bfa">
-</a><br>
+배열 문제를 풀어놓은 코드입니다. <br>
 
-
-
+<a href="https://www.acmicpc.net/problem/10818">
+  <img src ="https://github.com/do04200611/python/assets/74278578/16ab0c88-46db-4dcc-af8f-e1d19ef76f67">
+</a><br>
 
 # 결과 사진 <br>
 <a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%B0%EC%97%B4/max.py">
