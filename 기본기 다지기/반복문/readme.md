@@ -12,9 +12,10 @@
 <a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ceb65ecb-b544-40a5-aa4e-ad30c28aae57"></a>
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/OtherMain.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/4a9a909d-dc4b-4c83-8791-94ab8d76f785"></a>
+<a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%98%EB%B3%B5%EB%AC%B8/A%2BB%20-3.py">
+<img src ="https://github.com/do04200611/python/assets/74278578/3b823f32-9fc6-4c0d-bfd2-ec4250075ec8"></a>
 
-<a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/Baekjoon.cpp"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/0b905674-1a82-45b2-b5ca-063872afe5db"></a>
+<a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%98%EB%B3%B5%EB%AC%B8/max_plus.py"><img src ="https://github.com/do04200611/python/assets/74278578/0db632cc-567d-401e-bfe3-c5e672c12b89"></a>
 
 # github 웹 호스팅 페이지
 <a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
