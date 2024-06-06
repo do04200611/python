@@ -1,15 +1,14 @@
 # 반복문
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%2010950번(A+B-3)%20문제)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=백준%20반복문%20문제)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
 
 ## Language of repository📚
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
 
 ## Introduction to repositories 
-10950번(A+B-3) 문제를 풀어놓은 코드입니다. 
+반복문 문제를 풀어놓은 코드입니다. 
 <a href="https://github.com/do04200611/Baekjoon/blob/main/10950%EB%B2%88(A%2BB-3)/Main.java"><img src ="https://github.com/do04200611/Baekjoon/assets/74278578/ceb65ecb-b544-40a5-aa4e-ad30c28aae57"></a>
 
 # 결과 사진 <br>
