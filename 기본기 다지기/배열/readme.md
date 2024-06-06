@@ -24,20 +24,13 @@
 
 
 # 결과 사진 <br>
-<a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%98%EB%B3%B5%EB%AC%B8/A%2BB%20-3.py">
+<a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%B0%EC%97%B4/max.py">
   <img src ="https://github.com/do04200611/python/assets/74278578/14a5fb31-0d5e-4116-9059-f2afc04239d1">
-</a>
-
-<a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%98%EB%B3%B5%EB%AC%B8/max_plus.py">
-  <img src ="https://github.com/do04200611/python/assets/74278578/0db632cc-567d-401e-bfe3-c5e672c12b89">
-</a>
-<a href="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%98%EB%B3%B5%EB%AC%B8/multiple.py">
-  <img src ="https://github.com/do04200611/python/assets/74278578/0c208168-a2c3-4bd8-92b0-ba32caa52a3d">
 </a>
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
+<a href="">배열의 최댓값 최솟값</a><br>
 ## Contact 
 
 
