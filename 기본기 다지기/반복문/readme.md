@@ -11,7 +11,7 @@
 반복문 문제를 풀어놓은 코드입니다. 
 <a href="https://www.acmicpc.net/problem/2739">
   <img src ="https://github.com/do04200611/python/blob/main/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EB%8B%A4%EC%A7%80%EA%B8%B0/%EB%B0%98%EB%B3%B5%EB%AC%B8/multiple.py">
-</a>
+</a><br>
 <a href="https://www.acmicpc.net/problem/8393">
   <img src ="https://github.com/do04200611/python/assets/74278578/614aa1ca-7bdc-404b-9626-465cb1cf1104">
 </a>
