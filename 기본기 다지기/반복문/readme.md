@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=93BDF7&background=203AFF00&random=false&width=435&lines=My+name+is+kimganghyeon)](https://git.io/typing-svg)
 
 ## Language of repository📚
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 
 ## Introduction to repositories 
