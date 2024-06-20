@@ -18,4 +18,4 @@
 
 # github 웹 호스팅 페이지
 
-<a href=""></a><br>
+<a href="https://do04200611.github.io/python/list_set/index.html">리스트 관련 개념 정리 페이지</a><br>
