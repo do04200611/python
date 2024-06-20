@@ -37,7 +37,7 @@
 
 
 # github 웹 호스팅 페이지
-<a href="https://do04200611.github.io/Baekjoon/%EB%B0%98%EB%B3%B5%EB%AC%B8/10950%EB%B2%88(A+B-3)/index.html">A+B-3(10950)</a><br>
+<a href="https://do04200611.github.io/python/%EB%B0%B0%EC%97%B4/index.html">백준 문제의 반복문을 정리한 페이지</a><br>
 ## Contact 
 
 
