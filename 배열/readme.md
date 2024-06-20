@@ -22,7 +22,8 @@
 
 
 # github 웹 호스팅 페이지
-<a href="">배열의 최댓값 최솟값</a><br>
+<a href="https://do04200611.github.io/python/%EB%B0%B0%EC%97%B4/index.html">배열 개념의 백준 문제를 정리한 페이</a><br>
+
 ## Contact 
 
 
