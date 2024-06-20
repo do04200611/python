@@ -5,3 +5,7 @@
 
 파이썬에 대해서 공부한  코드 모음 레파지토리입니다.<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
+# github 웹 호스팅 페이지
+
+<a href="https://do04200611.github.io/python/list_set/index.html">리스트 관련 개념 정리 페이지</a><br>
