@@ -16,7 +16,7 @@ class SList:
 
     def insert_front(self, item):  # 첫 노드로 삽입
         if self.is_empty():  # empty인 경우
-            self.head = self.Node(item, None)
+            self.head = self.Node(item, None)  # 새 노드 삽입 수행
         else:  # 그 밖에 경우는
             self.head = self.Node(item, self.head)
         self.size += 1  # 항목 수의 값을 1씩 증가
@@ -35,7 +35,7 @@ class SList:
     def delete_after(self, p):  # p 다음 노드 삭제
         if self.is_empty():  # empty인 경우 에러 처리
             raise EmptyError('Underflow')
-        t = p.next
+        t = p.next  # t를 다음 노드에 삭제함
         p.next = t.next  # p다음 노드를 건너 뛰어 연결
         self.size -= 1  # 항목 수 값을 1씩 감소
 
