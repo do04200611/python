@@ -22,7 +22,7 @@ class SList:
         self.size += 1  # 항목 수의 값을 1씩 증가
 
     def insert_after(self, item, p):  # p 다음에 삽입
-        p.next = SList.Node(item, p.next)
+        p.next = SList.Node(item, p.next)  # 새 다음 노드가 p 다음 노드가 됨
         self.size += 1  # 항목 수의 값을 1씩 증가
 
     def delete_front(self):  # 첫 노드 삭제
